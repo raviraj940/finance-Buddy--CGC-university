@@ -2,3 +2,38 @@ AI-Powered Student Financial Assistance Advisor for CGC University
 
 Finance Buddy is an AI-powered web application designed to help CGC University students quickly find reliable information about scholarships, tuition fees, eligibility, financial assistance, required documents, education loans, and important deadlines.
 The platform provides an interactive Advisor Chat and organizes university financial information into easily accessible sections, making financial guidance simpler and more convenient for students.
+
+
+Project Overview
+
+Students often need to search through different documents and sources to find information about:
+- Scholarships
+- Programme fees
+- Eligibility criteria
+- Required documents
+- Education loans
+- Scholarship deadlines
+- Remaining fee calculations
+Finance Buddy brings this information together in a single, user-friendly platform.
+The system is designed to answer student questions using the approved Finance Buddy university dataset for the
+
+Objective
+
+The main objective of Finance Buddy is to:
+Provide students with a centralized, interactive, and easy-to-use platform for accessing university financial-assistance information.
+
+It reduces the need for students to search through multiple documents and helps them quickly find relevant financial information.
+
+
+
+Project
+
+
+Finance Buddy – CGC University
+Academic Session: 2026–27
+Project Type: AI-Powered Student Financial Assistance Advisor
+Campus: CGC Mohali, Punjab
+
+
+⭐ Support
+If you find this project useful, consider giving the repository a ⭐ Star on GitHub.
