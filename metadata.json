@@ -1,0 +1,6 @@
+{
+  "name": "Finance Buddy - CGC University Financial Advisor",
+  "description": "AI Student Financial Advisor for CGC University, Mohali (Academic Session 2026–27) with interactive financial diagrams and dataset-grounded guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
